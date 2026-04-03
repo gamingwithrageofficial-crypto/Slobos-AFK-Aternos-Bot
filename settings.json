@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ServerUptime",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ServerUptime",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "HophraseYT.aternos.me",
+    "port": 38733,
     "version": "",
     "try-creative": false
   },
